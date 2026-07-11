@@ -8,7 +8,7 @@
 
 The official RIVANOX website provides the current Stable Beta release, Free and Pro details, screenshots, installation information, release notes, licensing information, documentation and support options.
 
-[![RIVANOX XML Sitemap Filter for WordPress sitemap audit and technical SEO workflow](https://rivanox.com/wp-content/uploads/sites/7/2026/06/rivanox-xml-sitemap-filter-hero-wordpress-sitemap-workflow-1024x576.png)](https://rivanox.com/smarttools/rivanox-xml-sitemap-filter-for-wordpress/)
+[![RIVANOX XML Sitemap Filter for WordPress sitemap audit and technical SEO workflow](https://rivanox.com/wp-content/uploads/sites/7/2026/06/Core-XML-Sitemap-Filter-Components-Top.png)](https://rivanox.com/smarttools/rivanox-xml-sitemap-filter-for-wordpress/)
 
 ## Control WordPress XML sitemap output
 
